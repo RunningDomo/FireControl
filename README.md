@@ -1,2 +1,2 @@
 # FireControl
-#it's about amoy firecontrol system.
+#about amoy firecontrol system.
